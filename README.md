@@ -1,6 +1,6 @@
-### Iterators and Blocks Recap
+## Iterators and Blocks Recap
 
-## Concepts introduced:
+### Concepts introduced:
 
 - Array CRUD actions
 - Iterators and Enumerators (each, each_with_index, select, reject etc)
